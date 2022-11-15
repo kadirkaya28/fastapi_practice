@@ -23,4 +23,4 @@ app.include_router(vote.router)
 
 @app.get("/")
 def index():
-    return {"msg": "Hello World 😎😎"}
+    return {"msg": "Hello World 😎😎 👌👌"}
